@@ -1,0 +1,17 @@
+{
+    // See http://go.microsoft.com/fwlink/?LinkId=827846
+    // for the documentation about the extensions.json format
+    "recommendations": [
+        // Integrates ESLint into VS Code.
+        //https://github.com/Microsoft/vscode-eslint
+        "dbaeumer.vscode-eslint",
+        
+        // Format-on-save with Prettier
+        // https://github.com/prettier/prettier-vscode
+        "esbenp.prettier-vscode",
+
+        // styled-components
+        // https://github.com/styled-components/vscode-styled-components
+        "jpoissonnier.vscode-styled-components",
+    ]
+}
